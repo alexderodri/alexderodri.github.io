@@ -1,8 +1,9 @@
 body {
     background-color: rgb(47, 60, 70);
     font-family: 'Courier New', Courier, monospace;
-    margin: 50px;
-    width: 700px;
+    margin: 10vh;
+    width: 70vw;
+    max-width: 43em;
     margin-left: auto;
     margin-right: auto;
 }
