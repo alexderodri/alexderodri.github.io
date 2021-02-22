@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(47, 60, 70);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(57, 71, 82);
+    text-align: center;
+}
+
+p {
+    color:  white;
+    text-align: justify;
+    line-height: 2em;
+}
+
+li {
+    color:  white;
+    text-align: justify;
+    line-height: 2em
+}
+
+.social-media {
+    display: inline-block;
+    margin: 0 10px;
+    width: 50px;
+    height: 50px;
+}
+
+#profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+#mail:link {
+    color: white;
+}
+
+#mail:visited {
+    color: white;
+}
+
+#mail:hover {
+    color: rgb(208, 208, 208);
+}
+
+#mail:active {
+    color: rgb(160, 160, 160);
+}
