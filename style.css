@@ -2,7 +2,8 @@ body {
     /* background-color: rgb(47, 60, 70); */
     background: linear-gradient(rgb(59, 76, 88), rgb(28, 36, 43));
     font-family: 'Courier New', Courier, monospace;
-    margin: 5vh;
+    margin: auto;
+    height: 100vh;
     width: 90vw;
     max-width: 43em;
     margin-left: auto;
@@ -19,12 +20,12 @@ h1 {
 p {
     color:  white;
     text-align: justify;
-    line-height: 2em;
+    line-height: 1.5em;
 }
 
 li {
     color:  white;
-    line-height: 2em
+    line-height: 1.5em
 }
 
 .social-media {
