@@ -23,12 +23,12 @@ h1 {
 p {
     color:  white;
     text-align: justify;
-    line-height: 1.5em;
+    line-height: 1.75em;
 }
 
 li {
     color:  white;
-    line-height: 1.5em;
+    line-height: 1.75em;
 }
 
 .social-media {
@@ -53,7 +53,6 @@ li {
 }
 
 #mail:link {
-    /* color: rgb(255, 188, 152); */
     color: white;
 }
 
