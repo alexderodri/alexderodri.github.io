@@ -1,7 +1,8 @@
 html {
-    background: linear-gradient(rgb(59, 76, 88), rgb(28, 36, 43));
+    /* background: linear-gradient(rgb(59, 76, 88), rgb(28, 36, 43));
     background-attachment: fixed;
-    background-size: 100vw 100vh;
+    background-size: 100vw 100vh; */
+    background-color: rgb(34, 44, 53);
 }
 
 body {
